@@ -57,3 +57,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 Feathers.js - [Feathers.js](https://github.com/feathersjs/feathers)
+
+
+[![Build Status](https://semaphoreci.com/api/v1/80017organization/demo/branches/master/badge.svg)](https://semaphoreci.com/80017organization/demo)
