@@ -1,0 +1,17 @@
+sudo: required
+
+language: node
+
+services:
+  - docker
+
+branches:
+  only:
+  - master
+  
+jobs:
+  include:
+    - stage: Build Docker Image
+      script:
+      - docker build -t test .
+      - docker images
