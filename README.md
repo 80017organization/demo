@@ -68,4 +68,3 @@ Feathers.js - [Feathers.js](https://github.com/feathersjs/feathers)
 
 
 
-https://travis-ci.org/80017organization/demo.svg?branch=master
