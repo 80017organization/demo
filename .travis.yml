@@ -15,3 +15,11 @@ jobs:
       script:
       - docker build -t test .
       - docker images
+      
+notifications:
+  email:
+    recipients:
+      - arpitap@officebeacon.com
+      - arpitapatel0611@gmail.com
+    on_success: always # default: change
+    on_failure: always # default: always      
