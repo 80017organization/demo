@@ -65,3 +65,7 @@ Feathers.js - [Feathers.js](https://github.com/feathersjs/feathers)
 
 
 [![Build Status](https://travis-ci.org/api/v1/80017organization/demo/branches/master/badge.svg)](https://travis-ci.org/80017organization/demo)
+
+
+
+https://travis-ci.org/80017organization/demo.svg?branch=master
